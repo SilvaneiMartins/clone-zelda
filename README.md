@@ -11,7 +11,7 @@
 </h4>
 
 <h1 align="center">
-      AGUARDEMMM NOVIDADES LOGO LOGO COM PYTHON + PYGAME...
+      AGUARDEM NOVIDADES PYTHON + PYGAME...
 </h1>
 
 <p align="center">
